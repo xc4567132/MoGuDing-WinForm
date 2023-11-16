@@ -98,7 +98,7 @@
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(190, 21);
             this.textBox6.TabIndex = 5;
-            this.textBox6.Text = "广州市";
+            this.textBox6.Text = "郑州市";
             // 
             // textBox5
             // 
@@ -106,7 +106,7 @@
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(190, 21);
             this.textBox5.TabIndex = 4;
-            this.textBox5.Text = "广东省";
+            this.textBox5.Text = "河南省";
             // 
             // textBox4
             // 
@@ -122,7 +122,7 @@
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(190, 21);
             this.textBox3.TabIndex = 2;
-            this.textBox3.Text = "中国广东省广州市";
+            this.textBox3.Text = "中国河南省郑州市";
             this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
             // textBox2
